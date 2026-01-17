@@ -1,0 +1,7 @@
+here i will tell you how to push a file 
+1. create a file by 		      touch name.txt
+2. now you nedd to write to file by   vi name.txt
+3. all this in history or update by   git add .
+4. now give comment to ths            git commit -m"added file"
+5 push the file on github             git push origin master
+done 
